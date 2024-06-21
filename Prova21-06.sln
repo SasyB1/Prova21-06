@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova21-06", "Prova21-06\Prova21-06.csproj", "{F248483E-228C-4F42-88D8-A427CF7331BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova21-06", "Prova21-06\Prova21-06.csproj", "{F248483E-228C-4F42-88D8-A427CF7331BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest", "Contest\Contest.csproj", "{D1E23886-0F08-4024-BAB0-0BD3BD1D45B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F248483E-228C-4F42-88D8-A427CF7331BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F248483E-228C-4F42-88D8-A427CF7331BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F248483E-228C-4F42-88D8-A427CF7331BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E23886-0F08-4024-BAB0-0BD3BD1D45B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E23886-0F08-4024-BAB0-0BD3BD1D45B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E23886-0F08-4024-BAB0-0BD3BD1D45B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E23886-0F08-4024-BAB0-0BD3BD1D45B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
